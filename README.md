@@ -1,1 +1,1 @@
-7938-DB80-29CA-BC3C
+{"valid":true,"message":"License not found"}
